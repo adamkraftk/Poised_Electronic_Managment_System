@@ -1,3 +1,3 @@
-# Poised_Electronic_Managment_System
-I Used Java to create a management system for a construction company. 
-The database was done wih MySQL.
+### Poised_Electronic_Managment_System
+This is the final Version of the Electronic Managment System and it now uses an SQL database instead of text files to save that information.
+
